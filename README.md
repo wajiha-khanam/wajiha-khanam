@@ -2,11 +2,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#007acc;">Wajiha Khanam</span> 👋</h1>
 <p align="center">
   📊 Data Enthusiast • 🧠 Machine Learning Learner • 💡 Problem Solver  
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/wajiha-khanam"><img src="https://img.shields.io/badge/LinkedIn-Wajiha%20Khanam-blue?logo=linkedin" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=wajiha-khanam&style=flat-square" alt="Profile Views" />
-</p>
+
 
 ---
 
