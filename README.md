@@ -1,7 +1,7 @@
 <!-- Banner-style Introduction -->
 <h1 align="center">Hi there, I'm <span style="color:#007acc;">Wajiha Khanam</span> 👋</h1>
 <p align="center">
-  📊 Data Enthusiast • 🧠 Machine Learning Learner • 💡 Problem Solver  
+  📈 Crunching Numbers | 🤖 Teaching Machines | 🎯 Solving Data Mysteries  
 
 
 ---
