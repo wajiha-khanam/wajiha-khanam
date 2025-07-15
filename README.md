@@ -22,6 +22,9 @@ Currently, I'm exploring the world of **Machine Learning**, **Deep Learning**, a
 `Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn`  
 `MySQL` | `PostgreSQL` | `Power BI` | `Jupyter Notebook`  
 
+**Core Concepts & Skills:**  
+`Statistics` (Descriptive, Inferential, Hypothesis Testing, A/B Testing) | `EDA` | `Data Cleaning` | `Storytelling with Data`
+
 **Currently Learning:**  
 `Machine Learning` | `Deep Learning (Keras, TensorFlow)` | `NLP` | `Model Evaluation & Metrics`
 
