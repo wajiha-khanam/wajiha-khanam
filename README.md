@@ -12,7 +12,7 @@ I’m an engineering grad turned data detective 🔍 — on a mission to turn me
 Currently, I'm exploring the world of **Machine Learning**, **Deep Learning**, and everything in between that can make data speak 🚀.
 
 - 🌱 Currently learning: `ML`, `Deep Learning`, `NLP`, `Power BI`
-- 🤝 Open to collaboration, internships, and data science opportunities
+- 🤝 Open to collaboration, and data science opportunities
 
 ---
 
