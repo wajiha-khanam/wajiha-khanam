@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/wajiha-khanam"><img src="https://img.shields.io/badge/LinkedIn-Wajiha%20Khanam-blue?logo=linkedin" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wajiha-khanam&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
