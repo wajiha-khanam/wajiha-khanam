@@ -6,9 +6,10 @@
 
 ---
 
-### 🧠 About Me
+### 🌟 About Me
 
-I'm an engineering graduate passionate about Data Science, Machine Learning, and building impactful solutions with data. I enjoy combining **Python**, **SQL**, and **Statistics** to solve business problems and tell stories with data.
+I’m an engineering grad turned data detective 🔍 — on a mission to turn messy datasets into meaningful stories 📚.  
+Currently, I'm exploring the world of **Machine Learning**, **Deep Learning**, and everything in between that can make data speak 🚀.
 
 - 🌱 Currently learning: `ML`, `Deep Learning`, `NLP`, `Power BI`
 - 🤝 Open to collaboration, internships, and data science opportunities
