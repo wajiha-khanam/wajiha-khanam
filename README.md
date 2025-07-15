@@ -1,16 +1,22 @@
-### 👋 Hi there, I'm Wajiha Khanam
-
-🎓 Engineering Graduate | 📊 Aspiring Data Scientist  
-🔍 Passionate about turning data into insights and building real-world solutions  
+<!-- Banner-style Introduction -->
+<h1 align="center">Hi there, I'm <span style="color:#007acc;">Wajiha Khanam</span> 👋</h1>
+<p align="center">
+  📊 Data Enthusiast • 🧠 Machine Learning Learner • 💡 Problem Solver  
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Wajiha%20Khanam-blue?logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🧠 I love working on projects that combine **Python**, **SQL**, **Statistics**, and **Machine Learning**
-- 📊 Currently building data-driven dashboards and models to solve real-world business problems
-- 🌱 Learning to improve my **ML modeling**, **Power BI visualization**, and **end-to-end project design**
-- 💬 Ask me about: `Data Cleaning`, `EDA`, `Statistical Analysis`, `Customer Churn`, `SQL Optimization`
+I'm an engineering graduate passionate about Data Science, Machine Learning, and building impactful solutions with data. I enjoy combining **Python**, **SQL**, and **Statistics** to solve business problems and tell stories with data.
+
+- 🌱 Currently learning: `ML`, `Deep Learning`, `NLP`, `Power BI`
+- 📈 Actively working on: Customer Churn Prediction & Real Estate Analysis
+- 🤝 Open to collaboration, internships, and data science opportunities
 
 ---
 
@@ -18,14 +24,16 @@
 
 **Languages & Tools:**  
 `Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn`  
-`MySQL` | `PostgreSQL` | `Power BI` | `Jupyter Notebook` 
+`MySQL` | `PostgreSQL` | `Power BI` | `Jupyter Notebook`  
 
-**Currently Learning / Exploring:**  
+**Currently Learning:**  
 `Machine Learning` | `Deep Learning (Keras, TensorFlow)` | `NLP` | `Model Evaluation & Metrics`
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let’s Connect
 
-- 📍 [LinkedIn](https://www.linkedin.com/in/wajiha-khanam)
-- 📬 Feel free to reach out for collaborations or just to chat about data!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wajiha-khanam)
+- 📬 Always open to collaborations, data projects, and learning with the community!
+
+
