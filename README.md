@@ -4,7 +4,7 @@
   📊 Data Enthusiast • 🧠 Machine Learning Learner • 💡 Problem Solver  
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Wajiha%20Khanam-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/wajiha-khanam"><img src="https://img.shields.io/badge/LinkedIn-Wajiha%20Khanam-blue?logo=linkedin" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square" alt="Profile Views" />
 </p>
 
