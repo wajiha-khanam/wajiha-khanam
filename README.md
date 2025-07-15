@@ -15,7 +15,6 @@
 I'm an engineering graduate passionate about Data Science, Machine Learning, and building impactful solutions with data. I enjoy combining **Python**, **SQL**, and **Statistics** to solve business problems and tell stories with data.
 
 - 🌱 Currently learning: `ML`, `Deep Learning`, `NLP`, `Power BI`
-- 📈 Actively working on: Customer Churn Prediction & Real Estate Analysis
 - 🤝 Open to collaboration, internships, and data science opportunities
 
 ---
