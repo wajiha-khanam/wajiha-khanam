@@ -27,5 +27,5 @@
 
 ### 📫 Connect with Me
 
-- 📍 [LinkedIn](www.linkedin.com/in/wajiha-khanam)
+- 📍 [LinkedIn](https://www.linkedin.com/in/wajiha-khanam)
 - 📬 Feel free to reach out for collaborations or just to chat about data!
