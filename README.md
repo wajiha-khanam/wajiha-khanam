@@ -49,19 +49,11 @@ Currently, I'm exploring the world of **Machine Learning**, **Deep Learning**, a
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=wajiha-khanam&show_icons=true&theme=radical&hide_rank=true" alt="Wajiha's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajiha-khanam&layout=compact&hide=c++,c&theme=vision-friendly-dark" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajiha-khanam&theme=monokai" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+![Wajiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wajiha-khanam&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wajiha-khanam&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wajiha-khanam&theme=monokai)
 
 
 ---
