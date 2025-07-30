@@ -6,31 +6,13 @@
 
 ---
 
-### 🌟 About Me
+### 🧑‍💻 About Me
 
-I’m an engineering grad turned data detective 🔍 — on a mission to turn messy datasets into meaningful stories 📚.  
-Currently, I'm exploring the world of **Machine Learning**, **Deep Learning**, and everything in between that can make data speak 🚀.
-
-- 🌱 Currently learning: `ML`, `Deep Learning`, `NLP`, `Power BI`
-- 🤝 Open to collaboration, and data science opportunities
-
----
-
-## 🧠 What I’m Up To
-
-🌱 **Currently Exploring:**  
-`Machine Learning` | `Deep Learning` | `NLP` | `Power BI`
-
-📚 **Sharpening My Skills In:**  
-- Building predictive models  
-- Tuning hyperparameters  
-- Visualizing complex data beautifully  
-- Communicating insights that matter  
-
-🤝 **Open To:**  
-- Collaborations on real-world data projects  
-- Entry-level roles in data science, ML, or analytics  
-- Learning and growing with the tech community
+- 🎓 From engineering roots to uncovering insights through data 
+- 🛠️ Skilled in **Python**, **SQL**, and **Statistics**
+- 📊 Hands-on with **EDA**, **data cleaning**, and **dashboarding** in Power BI  
+- 🚀 Firm believer in **learning by doing**, focused on solving real-world data problems
+- 🔍 Currently exploring **Machine Learning** and **Deep Learning** to turn data into decisions 
 
 ---
 
@@ -42,25 +24,34 @@ Currently, I'm exploring the world of **Machine Learning**, **Deep Learning**, a
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?logo=python&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white&style=flat)
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Wajiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wajiha-khanam&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wajiha-khanam&show_icons=true&theme=radical&hide_rank=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajiha-khanam&layout=compact&hide=c++,c&theme=vision-friendly-dark" width="300"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wajiha-khanam&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajiha-khanam&theme=monokai" width="700"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wajiha-khanam&theme=monokai)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wajiha-khanam&theme=dracula" width="700"/>
+</p>
+
 
 
 ---
 
+### 📫 Let's Connect
 
-### 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajiha-khanam)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:wajihakhanam2001@gmail.com)  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/wajiha-khanam)
-- 📬 Always open to collaborations, data projects, and learning with the community!
-
+---
