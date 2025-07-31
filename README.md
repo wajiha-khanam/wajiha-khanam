@@ -3,11 +3,7 @@
 <p align="center">
   📈 Crunching Numbers | 🤖 Teaching Machines | 🎯 Solving Data Mysteries  
 
-</p>
 
-<p align="center">
-  <img src="assets/datascience.png" alt="Data Science Banner" width="80%">
-</p>
 
 ---
 
