@@ -3,7 +3,6 @@
 <p align="center">
   📈 Crunching Numbers | 🤖 Teaching Machines | 🎯 Solving Data Mysteries  
 
-
 ---
 
 ### 🧑‍💻 About Me
